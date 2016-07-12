@@ -1,0 +1,16 @@
+PODS:
+  - UIKITComponents (0.1.0)
+
+DEPENDENCIES:
+  - UIKITComponents (from `../`)
+
+EXTERNAL SOURCES:
+  UIKITComponents:
+    :path: ../
+
+SPEC CHECKSUMS:
+  UIKITComponents: 95cc5ff2078d3889f1364affeb1cac603175b113
+
+PODFILE CHECKSUM: 7c46271f57d9f41455442591c9b8bfbc4d6cf2de
+
+COCOAPODS: 1.0.1

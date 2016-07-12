@@ -1,0 +1,22 @@
+{
+  "name": "UIKITComponents",
+  "version": "0.1.0",
+  "summary": "A short description of UIKITComponents.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/UIKITComponents",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sreenath": "sreenath.ramanathan@nike.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/UIKITComponents.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "UIKITComponents/Classes/**/*"
+}
